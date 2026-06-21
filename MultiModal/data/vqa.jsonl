@@ -1,0 +1,50 @@
+{"image": "MultiModal/data/real_images/object/object_01_dog.jpg", "question": "What animal is shown in the image?", "answers": ["dog", "a dog"], "type": "object"}
+{"image": "MultiModal/data/real_images/object/object_02_bicycle.jpg", "question": "What type of vehicle is parked in the arcade?", "answers": ["bicycle", "a bicycle", "bike", "a bike"], "type": "object"}
+{"image": "MultiModal/data/real_images/object/object_03_camera.jpg", "question": "What type of device is displayed on the table?", "answers": ["camera", "a camera", "cameras"], "type": "object"}
+{"image": "MultiModal/data/real_images/object/object_04_airplane.jpg", "question": "What is flying in the sky?", "answers": ["airplane", "an airplane", "plane", "aircraft"], "type": "object"}
+{"image": "MultiModal/data/real_images/object/object_05_guitar.jpg", "question": "What type of musical instrument is shown?", "answers": ["guitar", "a guitar", "acoustic guitar", "guitars"], "type": "object"}
+{"image": "MultiModal/data/real_images/object/object_06_laptop.jpg", "question": "What electronic device is on the white surface?", "answers": ["laptop", "a laptop", "laptop computer", "notebook computer"], "type": "object"}
+{"image": "MultiModal/data/real_images/object/object_07_coffee_mug.jpg", "question": "What type of container is hanging in the image?", "answers": ["mug", "a mug", "coffee mug", "cup"], "type": "object"}
+{"image": "MultiModal/data/real_images/object/object_08_wall_clock.jpg", "question": "What objects cover most of the image?", "answers": ["clocks", "wall clocks", "clock faces"], "type": "object"}
+{"image": "MultiModal/data/real_images/object/object_09_backpack.jpg", "question": "What are the hikers carrying on their backs?", "answers": ["backpacks", "backpacks on their backs", "rucksacks", "bags"], "type": "object"}
+{"image": "MultiModal/data/real_images/object/object_10_umbrella.jpg", "question": "What are the people holding above their heads?", "answers": ["umbrellas", "an umbrella", "colorful umbrellas"], "type": "object"}
+{"image": "MultiModal/data/real_images/color/color_01_red_strawberry.jpg", "question": "What color is the strawberry?", "answers": ["red", "bright red"], "type": "color"}
+{"image": "MultiModal/data/real_images/color/color_02_yellow_banana.jpg", "question": "What color are the bananas?", "answers": ["yellow", "mostly yellow"], "type": "color"}
+{"image": "MultiModal/data/real_images/color/color_03_blue_sky.jpg", "question": "What is the main color of the sky?", "answers": ["blue", "light blue"], "type": "color"}
+{"image": "MultiModal/data/real_images/color/color_04_green_leaf.jpg", "question": "What color is the leaf?", "answers": ["green", "dark green"], "type": "color"}
+{"image": "MultiModal/data/real_images/color/color_05_orange_pumpkin.jpg", "question": "What color is the pumpkin?", "answers": ["orange", "bright orange"], "type": "color"}
+{"image": "MultiModal/data/real_images/color/color_06_purple_lavender.jpg", "question": "What color are the lavender flowers?", "answers": ["purple", "violet", "purple and violet"], "type": "color"}
+{"image": "MultiModal/data/real_images/color/color_07_pink_flamingo.jpg", "question": "What color are the flamingos' feathers?", "answers": ["pink", "pinkish", "pink and coral"], "type": "color"}
+{"image": "MultiModal/data/real_images/color/color_08_black_raven.jpg", "question": "What color is the raven?", "answers": ["black", "mostly black"], "type": "color"}
+{"image": "MultiModal/data/real_images/color/color_09_white_snow.jpg", "question": "What color is the snow covering the landscape?", "answers": ["white", "bright white"], "type": "color"}
+{"image": "MultiModal/data/real_images/color/color_10_brown_chocolate.jpg", "question": "What color is the chocolate bar in the upper-left of the image?", "answers": ["brown", "milk chocolate brown", "light brown"], "type": "color"}
+{"image": "MultiModal/data/real_images/count/count_01_two_dogs.jpg", "question": "How many dogs are sitting on the grass?", "answers": ["2", "two", "two dogs"], "type": "count"}
+{"image": "MultiModal/data/real_images/count/count_02_three_apples.jpg", "question": "How many apples are visible?", "answers": ["3", "three", "three apples"], "type": "count"}
+{"image": "MultiModal/data/real_images/count/count_03_four_chairs.jpg", "question": "How many chairs are in the field?", "answers": ["4", "four", "four chairs"], "type": "count"}
+{"image": "MultiModal/data/real_images/count/count_04_five_pencils.jpg", "question": "How many colored pencils are visible?", "answers": ["5", "five", "five pencils"], "type": "count"}
+{"image": "MultiModal/data/real_images/count/count_05_six_eggs.jpg", "question": "How many eggs are in the carton?", "answers": ["6", "six", "six eggs"], "type": "count"}
+{"image": "MultiModal/data/real_images/count/count_06_two_cups.jpg", "question": "How many cups are on the table?", "answers": ["2", "two", "two cups"], "type": "count"}
+{"image": "MultiModal/data/real_images/count/count_07_three_balloons.jpg", "question": "How many hot-air balloons are in the sky?", "answers": ["3", "three", "three balloons"], "type": "count"}
+{"image": "MultiModal/data/real_images/count/count_08_four_candles.jpg", "question": "How many candles are lit?", "answers": ["4", "four", "four candles"], "type": "count"}
+{"image": "MultiModal/data/real_images/count/count_09_five_people.jpg", "question": "How many people are standing together?", "answers": ["5", "five", "five people"], "type": "count"}
+{"image": "MultiModal/data/real_images/count/count_10_six_oranges.jpg", "question": "How many orange halves are shown?", "answers": ["6", "six", "six orange halves"], "type": "count"}
+{"image": "MultiModal/data/real_images/scene_action/scene_action_01_running.jpg", "question": "What is the person doing?", "answers": ["running", "jogging", "going for a run"], "type": "action"}
+{"image": "MultiModal/data/real_images/scene_action/scene_action_02_cooking.jpg", "question": "What is the woman doing in the kitchen?", "answers": ["cooking", "preparing food", "making food"], "type": "action"}
+{"image": "MultiModal/data/real_images/scene_action/scene_action_03_cycling.jpg", "question": "What is the man doing on the path?", "answers": ["cycling", "riding a bicycle", "riding a bike", "biking"], "type": "action"}
+{"image": "MultiModal/data/real_images/scene_action/scene_action_04_playing_soccer.jpg", "question": "What sport are the children playing?", "answers": ["soccer", "football", "playing soccer", "playing football"], "type": "action"}
+{"image": "MultiModal/data/real_images/scene_action/scene_action_05_swimming.jpg", "question": "What is the person doing in the pool?", "answers": ["swimming", "swimming laps", "doing a swimming lap"], "type": "action"}
+{"image": "MultiModal/data/real_images/scene_action/scene_action_06_beach_sunset.jpg", "question": "What type of coastal place is shown at sunset?", "answers": ["beach", "a beach", "seaside", "coast"], "type": "scene"}
+{"image": "MultiModal/data/real_images/scene_action/scene_action_07_snowy_mountain.jpg", "question": "What natural landscape is shown?", "answers": ["snowy mountains", "snow-covered mountains", "mountains", "a snowy mountain"], "type": "scene"}
+{"image": "MultiModal/data/real_images/scene_action/scene_action_08_forest_trail.jpg", "question": "What kind of environment surrounds the trail?", "answers": ["forest", "a forest", "woods", "woodland"], "type": "scene"}
+{"image": "MultiModal/data/real_images/scene_action/scene_action_09_office_meeting.jpg", "question": "Where are the people having a work meeting?", "answers": ["office", "an office", "meeting room", "workplace"], "type": "scene"}
+{"image": "MultiModal/data/real_images/scene_action/scene_action_10_train_station.jpg", "question": "What type of transportation location is shown?", "answers": ["train station", "a train station", "railway station", "rail station"], "type": "scene"}
+{"image": "MultiModal/data/real_images/ocr/ocr_01_stop_sign.jpg", "question": "What word is written on the red sign?", "answers": ["STOP", "stop", "Stop"], "type": "ocr"}
+{"image": "MultiModal/data/real_images/ocr/ocr_02_exit_sign.jpg", "question": "What word is illuminated on the hallway sign?", "answers": ["EXIT", "exit", "Exit"], "type": "ocr"}
+{"image": "MultiModal/data/real_images/ocr/ocr_03_open_sign.jpg", "question": "What word is displayed by the neon sign?", "answers": ["OPEN", "open", "Open"], "type": "ocr"}
+{"image": "MultiModal/data/real_images/ocr/ocr_04_one_way_sign.jpg", "question": "What two words are written on the arrow sign?", "answers": ["ONE WAY", "one way", "One Way"], "type": "ocr"}
+{"image": "MultiModal/data/real_images/ocr/ocr_05_cafe_sign.jpg", "question": "What large word appears in the center of the cafe sign?", "answers": ["BAR", "Bar", "bar"], "type": "ocr"}
+{"image": "MultiModal/data/real_images/ocr/ocr_06_hotel_sign.jpg", "question": "What word is written vertically on the building sign?", "answers": ["HOTEL", "hotel", "Hotel"], "type": "ocr"}
+{"image": "MultiModal/data/real_images/ocr/ocr_07_parking_sign.jpg", "question": "What word appears directly below the word 'OF' on the sign?", "answers": ["PARKING", "parking", "Parking"], "type": "ocr"}
+{"image": "MultiModal/data/real_images/ocr/ocr_08_school_sign.jpg", "question": "What number is shown inside the circular road sign?", "answers": ["40", "forty"], "type": "ocr"}
+{"image": "MultiModal/data/real_images/ocr/ocr_09_sale_sign.jpg", "question": "What word is written inside the lighted box?", "answers": ["SALE", "sale", "Sale"], "type": "ocr"}
+{"image": "MultiModal/data/real_images/ocr/ocr_10_welcome_sign.jpg", "question": "What word is painted on the garden sign?", "answers": ["WELCOME", "welcome", "Welcome"], "type": "ocr"}
