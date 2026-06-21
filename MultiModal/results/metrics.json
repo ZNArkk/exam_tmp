@@ -1,0 +1,13 @@
+{
+  "model": "blip",
+  "num_samples": 50,
+  "overall_accuracy": 0.84,
+  "accuracy_by_type": {
+    "object": 1.0,
+    "color": 1.0,
+    "count": 0.8,
+    "action": 0.4,
+    "scene": 0.6,
+    "ocr": 0.9
+  }
+}

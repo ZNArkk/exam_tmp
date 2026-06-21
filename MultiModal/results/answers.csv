@@ -1,0 +1,51 @@
+image,question,gt_answers,pred_answer,type,is_correct
+MultiModal/data/real_images/object/object_01_dog.jpg,What animal is shown in the image?,"['dog', 'a dog']",dog,object,True
+MultiModal/data/real_images/object/object_02_bicycle.jpg,What type of vehicle is parked in the arcade?,"['bicycle', 'a bicycle', 'bike', 'a bike']",bicycle,object,True
+MultiModal/data/real_images/object/object_03_camera.jpg,What type of device is displayed on the table?,"['camera', 'a camera', 'cameras']",camera,object,True
+MultiModal/data/real_images/object/object_04_airplane.jpg,What is flying in the sky?,"['airplane', 'an airplane', 'plane', 'aircraft']",airplane,object,True
+MultiModal/data/real_images/object/object_05_guitar.jpg,What type of musical instrument is shown?,"['guitar', 'a guitar', 'acoustic guitar', 'guitars']",guitar,object,True
+MultiModal/data/real_images/object/object_06_laptop.jpg,What electronic device is on the white surface?,"['laptop', 'a laptop', 'laptop computer', 'notebook computer']",laptop,object,True
+MultiModal/data/real_images/object/object_07_coffee_mug.jpg,What type of container is hanging in the image?,"['mug', 'a mug', 'coffee mug', 'cup']",mug,object,True
+MultiModal/data/real_images/object/object_08_wall_clock.jpg,What objects cover most of the image?,"['clocks', 'wall clocks', 'clock faces']",clocks,object,True
+MultiModal/data/real_images/object/object_09_backpack.jpg,What are the hikers carrying on their backs?,"['backpacks', 'backpacks on their backs', 'rucksacks', 'bags']",backpacks,object,True
+MultiModal/data/real_images/object/object_10_umbrella.jpg,What are the people holding above their heads?,"['umbrellas', 'an umbrella', 'colorful umbrellas']",umbrellas,object,True
+MultiModal/data/real_images/color/color_01_red_strawberry.jpg,What color is the strawberry?,"['red', 'bright red']",red,color,True
+MultiModal/data/real_images/color/color_02_yellow_banana.jpg,What color are the bananas?,"['yellow', 'mostly yellow']",yellow,color,True
+MultiModal/data/real_images/color/color_03_blue_sky.jpg,What is the main color of the sky?,"['blue', 'light blue']",blue,color,True
+MultiModal/data/real_images/color/color_04_green_leaf.jpg,What color is the leaf?,"['green', 'dark green']",green,color,True
+MultiModal/data/real_images/color/color_05_orange_pumpkin.jpg,What color is the pumpkin?,"['orange', 'bright orange']",orange,color,True
+MultiModal/data/real_images/color/color_06_purple_lavender.jpg,What color are the lavender flowers?,"['purple', 'violet', 'purple and violet']",purple,color,True
+MultiModal/data/real_images/color/color_07_pink_flamingo.jpg,What color are the flamingos' feathers?,"['pink', 'pinkish', 'pink and coral']",pink,color,True
+MultiModal/data/real_images/color/color_08_black_raven.jpg,What color is the raven?,"['black', 'mostly black']",black,color,True
+MultiModal/data/real_images/color/color_09_white_snow.jpg,What color is the snow covering the landscape?,"['white', 'bright white']",white,color,True
+MultiModal/data/real_images/color/color_10_brown_chocolate.jpg,What color is the chocolate bar in the upper-left of the image?,"['brown', 'milk chocolate brown', 'light brown']",brown,color,True
+MultiModal/data/real_images/count/count_01_two_dogs.jpg,How many dogs are sitting on the grass?,"['2', 'two', 'two dogs']",2,count,True
+MultiModal/data/real_images/count/count_02_three_apples.jpg,How many apples are visible?,"['3', 'three', 'three apples']",three,count,True
+MultiModal/data/real_images/count/count_03_four_chairs.jpg,How many chairs are in the field?,"['4', 'four', 'four chairs']",4,count,True
+MultiModal/data/real_images/count/count_04_five_pencils.jpg,How many colored pencils are visible?,"['5', 'five', 'five pencils']",5,count,True
+MultiModal/data/real_images/count/count_05_six_eggs.jpg,How many eggs are in the carton?,"['6', 'six', 'six eggs']",8,count,False
+MultiModal/data/real_images/count/count_06_two_cups.jpg,How many cups are on the table?,"['2', 'two', 'two cups']",2,count,True
+MultiModal/data/real_images/count/count_07_three_balloons.jpg,How many hot-air balloons are in the sky?,"['3', 'three', 'three balloons']",3,count,True
+MultiModal/data/real_images/count/count_08_four_candles.jpg,How many candles are lit?,"['4', 'four', 'four candles']",4,count,True
+MultiModal/data/real_images/count/count_09_five_people.jpg,How many people are standing together?,"['5', 'five', 'five people']",5,count,True
+MultiModal/data/real_images/count/count_10_six_oranges.jpg,How many orange halves are shown?,"['6', 'six', 'six orange halves']",7,count,False
+MultiModal/data/real_images/scene_action/scene_action_01_running.jpg,What is the person doing?,"['running', 'jogging', 'going for a run']",walking,action,False
+MultiModal/data/real_images/scene_action/scene_action_02_cooking.jpg,What is the woman doing in the kitchen?,"['cooking', 'preparing food', 'making food']",cooking,action,True
+MultiModal/data/real_images/scene_action/scene_action_03_cycling.jpg,What is the man doing on the path?,"['cycling', 'riding a bicycle', 'riding a bike', 'biking']",riding bike,action,False
+MultiModal/data/real_images/scene_action/scene_action_04_playing_soccer.jpg,What sport are the children playing?,"['soccer', 'football', 'playing soccer', 'playing football']",baseball,action,False
+MultiModal/data/real_images/scene_action/scene_action_05_swimming.jpg,What is the person doing in the pool?,"['swimming', 'swimming laps', 'doing a swimming lap']",swimming,action,True
+MultiModal/data/real_images/scene_action/scene_action_06_beach_sunset.jpg,What type of coastal place is shown at sunset?,"['beach', 'a beach', 'seaside', 'coast']",beach,scene,True
+MultiModal/data/real_images/scene_action/scene_action_07_snowy_mountain.jpg,What natural landscape is shown?,"['snowy mountains', 'snow-covered mountains', 'mountains', 'a snowy mountain']",mountains,scene,True
+MultiModal/data/real_images/scene_action/scene_action_08_forest_trail.jpg,What kind of environment surrounds the trail?,"['forest', 'a forest', 'woods', 'woodland']",forest,scene,True
+MultiModal/data/real_images/scene_action/scene_action_09_office_meeting.jpg,Where are the people having a work meeting?,"['office', 'an office', 'meeting room', 'workplace']",in office,scene,False
+MultiModal/data/real_images/scene_action/scene_action_10_train_station.jpg,What type of transportation location is shown?,"['train station', 'a train station', 'railway station', 'rail station']",train,scene,False
+MultiModal/data/real_images/ocr/ocr_01_stop_sign.jpg,What word is written on the red sign?,"['STOP', 'stop', 'Stop']",stop,ocr,True
+MultiModal/data/real_images/ocr/ocr_02_exit_sign.jpg,What word is illuminated on the hallway sign?,"['EXIT', 'exit', 'Exit']",exit,ocr,True
+MultiModal/data/real_images/ocr/ocr_03_open_sign.jpg,What word is displayed by the neon sign?,"['OPEN', 'open', 'Open']",open,ocr,True
+MultiModal/data/real_images/ocr/ocr_04_one_way_sign.jpg,What two words are written on the arrow sign?,"['ONE WAY', 'one way', 'One Way']",one way,ocr,True
+MultiModal/data/real_images/ocr/ocr_05_cafe_sign.jpg,What large word appears in the center of the cafe sign?,"['BAR', 'Bar', 'bar']",cafe,ocr,False
+MultiModal/data/real_images/ocr/ocr_06_hotel_sign.jpg,What word is written vertically on the building sign?,"['HOTEL', 'hotel', 'Hotel']",hotel,ocr,True
+MultiModal/data/real_images/ocr/ocr_07_parking_sign.jpg,What word appears directly below the word 'OF' on the sign?,"['PARKING', 'parking', 'Parking']",parking,ocr,True
+MultiModal/data/real_images/ocr/ocr_08_school_sign.jpg,What number is shown inside the circular road sign?,"['40', 'forty']",40,ocr,True
+MultiModal/data/real_images/ocr/ocr_09_sale_sign.jpg,What word is written inside the lighted box?,"['SALE', 'sale', 'Sale']",sale,ocr,True
+MultiModal/data/real_images/ocr/ocr_10_welcome_sign.jpg,What word is painted on the garden sign?,"['WELCOME', 'welcome', 'Welcome']",welcome,ocr,True
